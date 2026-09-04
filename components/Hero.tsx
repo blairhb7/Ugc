@@ -48,7 +48,7 @@ export default function Hero() {
         <div className="heroReel rise">
           <div className="heroReelFrame">
             <video
-              src="/videos/pitch video final.mov"
+              src="/videos/pitch video final.mp4"
               poster="/img/poster-the-pitch.png"
               autoPlay
               muted={muted}

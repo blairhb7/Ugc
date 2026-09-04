@@ -2,15 +2,15 @@ import VideoTile from '@/components/VideoTile';
 import Hero from '@/components/Hero';
 
 const reels = [
-  { src: '/videos/Dot Card Video 1.mov', poster: '/img/poster-dot-card.png', kicker: 'Product demo', title: 'Dot Card' },
-  { src: '/videos/Untitled.mov', poster: '/img/Untitled_thumb_v2.jpg', kicker: 'Reel', title: 'Product Review' },
-  { src: '/videos/v1.mov', poster: '/img/poster-problem-solution.png', kicker: 'Reel', title: 'Gear Field Test' },
-  { src: '/videos/ovis 1.mov', poster: '/img/ovis_1_thumb_v2.jpg', kicker: 'Reel', title: 'Ovis AI' },
-  { src: '/videos/lockedin ai trial one.mov', poster: '/img/lockedin_ai_trial_one_thumb_v2.jpg', kicker: 'Reel', title: 'Lockedin AI' },
-  { src: '/videos/11labs vid 1.mov', poster: '/img/11labs_vid_1_thumb_v2.jpg', kicker: 'Reel', title: 'Eleven Labs Product Showcase' },
-  { src: '/videos/FINAL.mov', poster: '/img/Untitled_2_thumb_v2.jpg', kicker: 'Reel', title: 'Ayaneo Review' },
-  { src: '/videos/Dot vid 2.mov', poster: '/img/Dot_vid_2_thumb_v2.jpg', kicker: 'Reel', title: 'Dot Card Brand Video' },
-  { src: '/videos/Replit vid 2.mov', poster: '/img/ChatGPT Image Aug 22, 2026, 02_42_05 PM (2).png', kicker: 'Brand pitch', title: 'Replit Pitch' },
+  { src: '/videos/Dot Card Video 1.mp4', poster: '/img/poster-dot-card.png', kicker: 'Product demo', title: 'Dot Card' },
+  { src: '/videos/Untitled.mp4', poster: '/img/Untitled_thumb_v2.jpg', kicker: 'Reel', title: 'Product Review' },
+  { src: '/videos/v1.mp4', poster: '/img/poster-problem-solution.png', kicker: 'Reel', title: 'Gear Field Test' },
+  { src: '/videos/ovis 1.mp4', poster: '/img/ovis_1_thumb_v2.jpg', kicker: 'Reel', title: 'Ovis AI' },
+  { src: '/videos/lockedin ai trial one.mp4', poster: '/img/lockedin_ai_trial_one_thumb_v2.jpg', kicker: 'Reel', title: 'Lockedin AI' },
+  { src: '/videos/11labs vid 1.mp4', poster: '/img/11labs_vid_1_thumb_v2.jpg', kicker: 'Reel', title: 'Eleven Labs Product Showcase' },
+  { src: '/videos/FINAL.mp4', poster: '/img/Untitled_2_thumb_v2.jpg', kicker: 'Reel', title: 'Ayaneo Review' },
+  { src: '/videos/Dot vid 2.mp4', poster: '/img/Dot_vid_2_thumb_v2.jpg', kicker: 'Reel', title: 'Dot Card Brand Video' },
+  { src: '/videos/Replit vid 2.mp4', poster: '/img/ChatGPT Image Aug 22, 2026, 02_42_05 PM (2).png', kicker: 'Brand pitch', title: 'Replit Pitch' },
 
 
 ];

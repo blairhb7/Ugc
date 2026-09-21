@@ -6,11 +6,11 @@ const reels = [
   { src: '/videos/Untitled.mp4', poster: '/img/Untitled_thumb_v2.jpg', kicker: 'Reel', title: 'Product Review' },
   { src: '/videos/v1.mp4', poster: '/img/poster-problem-solution.png', kicker: 'Reel', title: 'Gear Field Test' },
   { src: '/videos/ovis 1.mp4', poster: '/img/ovis_1_thumb_v2.jpg', kicker: 'Reel', title: 'Ovis AI' },
-  { src: '/videos/love.mov', poster: '', kicker: 'Reel', title: 'Lovehandle' },
+  { src: '/videos/love.mov', poster: '/img/thumbnail_3_9x16.jpg', kicker: 'Reel', title: 'Lovehandle' },
   { src: '/videos/11labs vid 1.mp4', poster: '/img/11labs_vid_1_thumb_v2.jpg', kicker: 'Reel', title: 'Eleven Labs Product Showcase' },
   { src: '/videos/FINAL.mp4', poster: '/img/Untitled_2_thumb_v2.jpg', kicker: 'Reel', title: 'Ayaneo Review' },
   { src: '/videos/Dot vid 2.mp4', poster: '/img/Dot_vid_2_thumb_v2.jpg', kicker: 'Reel', title: 'Dot Card Brand Video' },
-  { src: '/videos/lovehandle 4.mov', poster: '', kicker: 'Product showcase', title: 'Lovehandle Phone stand' },
+  { src: '/videos/lovehandle 4.mov', poster: '/img/thumbnail_6_9x16.jpg', kicker: 'Product showcase', title: 'Lovehandle Phone stand' },
 
 
 ];
